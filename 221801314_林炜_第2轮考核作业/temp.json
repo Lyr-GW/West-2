@@ -1,0 +1,42 @@
+{
+  "weapon": [
+    {
+      "name": "破旧的小刀",
+      "value": 5,
+      "price": 1,
+      "status": "1"
+    },
+    {
+      "name": "长剑",
+      "value": 10,
+      "price": 10,
+      "status": "1"
+    },
+    {
+      "name": "爪刀(*)|多普勒",
+      "value": 5,
+      "price": 99999,
+      "status": "1"
+    }
+  ],
+  "clothes": [
+    {
+      "name": "粗布衣",
+      "value": 1,
+      "price": 1,
+      "status": 0
+    },
+    {
+      "name": "轻型链甲",
+      "value": 10,
+      "price": 15,
+      "status": 0
+    },
+    {
+      "name": "软猬甲",
+      "value": 50,
+      "price": 200,
+      "status": 0
+    }
+  ]
+}

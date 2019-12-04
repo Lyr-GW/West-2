@@ -1,0 +1,16 @@
+{
+  "name": "破旧的小刀",
+  "value": 5,
+  "price": 1,
+  "status": "1"
+}{
+  "name": "长剑",
+  "value": 10,
+  "price": 10,
+  "status": "1"
+}{
+  "name": "爪刀(*)|多普勒",
+  "value": 5,
+  "price": 99999,
+  "status": "1"
+}
